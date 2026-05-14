@@ -45,10 +45,9 @@ The findings suggest that improving system stability and customer support qualit
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="images/confusion-matrix.png" width="70%" />
+  <img src="images/sentiment-analysis-bar.png" width="48%" />
+  <img src="images/wordcloud.png" width="48%" />
 </p>
-
----
 
 ## 📚 Research Context
 
