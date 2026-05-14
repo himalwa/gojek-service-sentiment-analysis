@@ -6,11 +6,13 @@ This project analyzes public sentiment toward Gojek services using Twitter (X) d
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- RapidMiner
-- Excel
-- Google Colab
-- Twitter API
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RapidMiner-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter_API-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</p>
 
 ## ⚙️ Research Workflow
 
